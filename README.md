@@ -31,12 +31,12 @@ Make sure that unit tests in `tests/GoldControllerTest.php` are working, and not
 
 ### Additional constraints:
 1. We will be checking:
-   1. If code compiles, and returns real data
-   2. If unit tests are all green
-   3. Code structure, cleanliness and Your design decisions (SOLID, design patterns, and/or conformance to Symfony guidelines).
+    1. If code compiles, and returns real data
+    2. If unit tests are all green
+    3. Code structure, cleanliness and Your design decisions (SOLID, design patterns, and/or conformance to Symfony guidelines).
 2. You can do *anything You want* with this project. Remove our code, install libraries, add dependencies, create services, anything. 
-   1. Of course, these additions should be sane. 
-   2. But if You do something "strange" and successfully defend it at the meeting - a big plus!
+    1. Of course, these additions should be sane. 
+    2. But if You do something "strange" and successfully defend it at the meeting - a big plus!
 3. You _have_ to use **PHP >= 8.1** and Composer 2
 4. Please, write in English! (variable names, comments, commit messages - all of it)
 
